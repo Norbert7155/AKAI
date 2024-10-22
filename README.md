@@ -1,0 +1,2 @@
+# AKAI
+Zadanie rekrutacyjne AKAI
